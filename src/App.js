@@ -2,6 +2,8 @@ import data from "./data";
 
 
 function App() {
+
+  console.log("checking")
   return (
     <div className="grid-container">
     <header className="row">

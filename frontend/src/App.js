@@ -1,15 +1,9 @@
-
-
 import {BrowserRouter,Route} from 'react-router-dom'
 import HomeScreen from "./screens/HomeScreen";
 import ProductScreen from "./screens/ProductScreen";
 
 function App() {
-
-
-
- 
-  return (
+     return (
     <BrowserRouter>
     <div className="grid-container">
     <header className="row">
